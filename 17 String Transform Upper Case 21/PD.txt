@@ -1,0 +1,1 @@
+21. Php script to transform string to uppercase or UC->LC or first character UC -using string functions.
